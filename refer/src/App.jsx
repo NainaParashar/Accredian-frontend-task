@@ -741,7 +741,7 @@ const App = () => {
                       type="text"
                      
                   
-                      placeholder="Enter Your Contact "
+                      placeholder="Refer and Earn"
                     /></div>
                  
                  <button type="submit">Submit</button>
